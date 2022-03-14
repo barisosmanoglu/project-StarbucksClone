@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+}
+
+/*! NAVBAR */
+
+nav a{
+    color: #000;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+nav img{
+    margin-left: 10px;
+}
+
+.navbar a:hover{
+    color: #008248 !important;
+}
+
+
+#sign{
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 5px;
+    color: #000;
+}
+
+#sign:hover{
+    background-color: #000;
+    color: #008248;
+}
+
+#join{
+    border: 1px solid #000;
+    background-color: #000;
+    border-radius: 20px;
+    padding: 5px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+#join:hover{
+    color: #008248;
+}
+
+/*! NAVBAR */
+
+/*! BANNER*/
+
+.banner{
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-left: 30px;
+}
+
+.banner h4,p{
+    color: #fff;
+    margin-top: 25px;
+}
+
+.banner h4{
+    margin-top: 200px;
+}
+
+.banner button{
+    background-color: #008248;
+    color: #fff;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: smaller;
+}
+
+.banner button:hover{
+    color: #d1a049;
+}
+
+/*! BANNER*/
+
+
+/*! Content */
+
+/*? Content One */
+
+.content-one{
+    padding: 100px 0;
+}
+
+.content-one p{
+    color: #000;
+}
+
+.content-one h6{
+    margin-top: 20px;
+}
+
+.content-one a{
+    color: #008248;
+    text-decoration: none;
+    border: 1px solid #008248;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.content-one a:hover{
+    background-color: #008248;
+    color: #fff;
+}
+
+.content-one span{
+    text-decoration: underline !important;
+    color: #008248 !important;
+}
+
+/*? Content One */
+
+/*? Content Two */
+
+.content-two{
+    background-color: #f0f7f4;
+}
+
+.content-two p{
+    color: #000;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+
+.yildiz{
+    color: #d1a049;;
+}
+
+
+/*? Content Two */
+
+/*? Content Three */
+
+.content-three{
+    background-color: #d4e9e2;
+}
+
+.content-three h4{
+    margin-top: 60px;
+}
+.content-three p{
+    color: #000;
+}
+
+/*? Content Three */
+
+/*? Content Four */
+
+.content-four p{
+    color: #000;
+}
+
+.content-four a{
+    color: #008248;
+}
+
+.content-four a:hover{
+    color:#38aa77;
+}
+
+/*? Content Four */
+
+/*? Content Five */
+
+.content-five{
+    background-color: #f3f1e7;
+}
+
+.content-five p{
+    color: #000;
+    font-size: 12px;
+}
+
+.cizgi{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.39);
+}
+
+/*? Content Five */
+
+/*! Content */
